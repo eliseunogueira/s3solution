@@ -1,12 +1,16 @@
+.menu-item-name {
+  color: #ecf0f1;
+}
+
 .navbar-default {
   background-color: #bdc3c7;
   color: #e74c3c;
 }
 .navbar-default li a {
-  color: ##9b59b6;
+  color: #9b59b6;
 }
-section {
-  background-color: #95a5a6;
+section:nth-child(1) {
+  background-color: #e67e22;
   padding: 10px;
   margin-bottom: 10px;
 }
